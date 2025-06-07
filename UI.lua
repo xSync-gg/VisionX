@@ -1,3 +1,4 @@
+--a
 local a, b = {
 	{
 		1,
@@ -4363,7 +4364,7 @@ local aa = {
 			DialogButtonBorder = Color3.fromRGB(15, 15, 15),
 			DialogBorder = Color3.fromRGB(15, 15, 15),
 			DialogInput = Color3.fromRGB(15, 15, 15),
-			DialogInputLine = Color3.fromRGB(120, 120, 120)
+			DialogInputLine = Color3.fromRGB(50, 50, 50)
 		}
 	end,
 	[52] = function()
