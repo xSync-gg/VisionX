@@ -1,3 +1,4 @@
+--a
 local a, b = {
 	{
 		1,
@@ -4342,7 +4343,7 @@ local aa = {
 		local aa, ab, ac, ad, ae = b(51)
 		return {
 			Name = 'Darker',
-			Accent = Color3.fromRGB(255, 255, 255),
+			Accent = Color3.fromRGB(3, 227, 246),
 			AcrylicMain = Color3.fromRGB(15, 15, 15),
 			AcrylicBorder = Color3.fromRGB(50, 50, 50),
 			AcrylicGradient = ColorSequence.new(Color3.fromRGB(15, 15, 15), Color3.fromRGB(15, 15, 15)),
