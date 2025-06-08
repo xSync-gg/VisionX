@@ -1,4 +1,4 @@
---a
+--b
 local a, b = {
 	{
 		1,
@@ -4345,26 +4345,26 @@ local aa = {
 			Name = 'Darker',
 			Accent = Color3.fromRGB(3, 227, 246),
 			AcrylicMain = Color3.fromRGB(15, 15, 15),
-			AcrylicBorder = Color3.fromRGB(50, 50, 50),
+			AcrylicBorder = Color3.fromRGB(30, 30, 30),
 			AcrylicGradient = ColorSequence.new(Color3.fromRGB(15, 15, 15), Color3.fromRGB(15, 15, 15)),
 			AcrylicNoise = 0.94,
 			TitleBarLine = Color3.fromRGB(15, 15, 15),
 			Tab = Color3.fromRGB(15, 15, 15),
 			Element = Color3.fromRGB(15, 15, 15),
-			ElementBorder = Color3.fromRGB(50, 50, 50),
-			InElementBorder = Color3.fromRGB(50, 50, 50),
+			ElementBorder = Color3.fromRGB(30, 30, 30),
+			InElementBorder = Color3.fromRGB(30, 30, 30),
 			ElementTransparency = 0.82,
 			DropdownFrame = Color3.fromRGB(15, 15, 15),
 			DropdownHolder = Color3.fromRGB(15, 15, 15),
-			DropdownBorder = Color3.fromRGB(50, 50, 50),
+			DropdownBorder = Color3.fromRGB(30, 30, 30),
 			Dialog = Color3.fromRGB(15, 15, 15),
 			DialogHolder = Color3.fromRGB(15, 15, 15),
 			DialogHolderLine = Color3.fromRGB(15, 15, 15),
 			DialogButton = Color3.fromRGB(15, 15, 15),
-			DialogButtonBorder = Color3.fromRGB(50, 50, 50),
-			DialogBorder = Color3.fromRGB(50, 50, 50),
+			DialogButtonBorder = Color3.fromRGB(30, 30, 30),
+			DialogBorder = Color3.fromRGB(30, 30, 30),
 			DialogInput = Color3.fromRGB(15, 15, 15),
-			DialogInputLine = Color3.fromRGB(50, 50, 50)
+			DialogInputLine = Color3.fromRGB(30, 30, 30)
 		}
 	end,
 	[52] = function()
